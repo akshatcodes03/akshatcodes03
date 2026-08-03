@@ -58,34 +58,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshatcodes03&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatcodes03&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=akshatcodes03&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akshatcodes03&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
