@@ -14,7 +14,7 @@
 ## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/HK2CI21FIZ?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/AkshatCodes03?theme=unicorn&font=Baloo_2&border=0&radius=20" />
 </p>
 
 ## 🔥 Current Goals
