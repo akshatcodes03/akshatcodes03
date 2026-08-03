@@ -14,7 +14,11 @@
 - SQL
 
 ## 📊 GitHub Stats
-(Add GitHub stats cards)
+![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatcodes03&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatcodes03&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=akshatcodes03&theme=tokyonight)
 
 ## 🔥 Current Goals
 - Solve 300+ LeetCode Problems
