@@ -15,3 +15,9 @@
 - Solve 300+ LeetCode Problems
 - Build 5 Full Stack Projects
 - Learn React
+
+  ## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshatcodes03/akshatcodes03/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
