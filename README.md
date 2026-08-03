@@ -7,13 +7,9 @@
 🚀 AI & Data Science Student
 🌱 Building Full Stack Projects
 
-## 🛠 Tech Stack
-- Java
-- HTML
-- CSS
-- JavaScript
-- Git
-- SQL
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,mysql" />
+</p>
 
 ## 📊 GitHub Stats
 ![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatcodes03&show_icons=true&theme=tokyonight)
