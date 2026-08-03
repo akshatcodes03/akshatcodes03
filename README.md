@@ -1,6 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <img src="./images/banner.png" width="100%" alt="Akshat Banner"/>
+  <img src="./images/gitbanner.png" width="100%" alt="Banner">
 </p>
 
 <!-- Typing Animation -->
