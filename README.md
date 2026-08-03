@@ -11,6 +11,12 @@
 <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,mysql" />
 </p>
 
+## 💻 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/HK2CI21FIZ?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
 ## 🔥 Current Goals
 - Solve 300+ LeetCode Problems
 - Build 5 Full Stack Projects
