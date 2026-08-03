@@ -11,17 +11,6 @@
 <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,mysql" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatcodes03&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatcodes03&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-
 ## 🔥 Current Goals
 - Solve 300+ LeetCode Problems
 - Build 5 Full Stack Projects
