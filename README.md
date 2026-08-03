@@ -18,7 +18,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatcodes03&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=akshatcodes03&theme=tokyonight)
 
 ## 🔥 Current Goals
 - Solve 300+ LeetCode Problems
