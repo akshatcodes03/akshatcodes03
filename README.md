@@ -1,9 +1,11 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Akshat+Shukla;Java+Developer;DSA+Learner;AI+%26+Data+Science+Student;Building+Awesome+Projects🚀" />
+</p>
 # Hi 👋 I'm Akshat
 
-💻 B.Tech CSE Student
-🌱 Learning Java, DSA & AI
-🚀 Building Full Stack Projects
-📍 India
+💻 Java Developer | DSA Enthusiast
+🚀 AI & Data Science Student
+🌱 Building Full Stack Projects
 
 ## 🛠 Tech Stack
 - Java
